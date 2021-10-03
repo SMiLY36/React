@@ -1,0 +1,44 @@
+.container {
+    display: flex;
+    max-width: 1300px;
+    margin: auto;
+    
+    
+}
+.main{
+    background-color:rgb(233,234,237,);
+}
+.mainheader {
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+.asd{
+    font-size: 13px;
+    font-weight: 700;
+    color:red
+    
+}
+.mainnews {
+    color: rgb(0,81,141) ;
+    font-size: 22px;
+    font-weight:700;
+
+}
+.mainnews2 {
+    font-size: 22px;
+    font-weight: 700;
+}
+.sideheader {
+    font-size: 22px;
+    font-weight: bold;
+}
+.side {
+    flex-direction: column;
+    right: 0;
+    background-color:rgb(233,234,237,);
+}
+.sidenews {
+    font-size: 17px;
+    font-weight: bold;
+}
